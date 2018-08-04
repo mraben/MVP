@@ -1,9 +1,9 @@
 package com.example.www.mvp_demo.presenter;
 
 import com.example.www.mvp_demo.bean.HomeBean;
-import com.example.www.mvp_demo.contract.IViewListener;
+import com.example.www.mvp_demo.iview.IViewListener;
 import com.example.www.mvp_demo.model.HomeModellmpl;
-import com.example.www.mvp_demo.ui.views.HomeView;
+import com.example.www.mvp_demo.iview.HomeView;
 
 /**
  * Description:

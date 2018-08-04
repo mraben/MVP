@@ -9,7 +9,7 @@ import android.widget.TextView;
 import com.example.www.mvp_demo.R;
 import com.example.www.mvp_demo.base.BaseFragment;
 import com.example.www.mvp_demo.presenter.HomePresenter;
-import com.example.www.mvp_demo.ui.views.HomeView;
+import com.example.www.mvp_demo.iview.HomeView;
 import com.example.www.mvp_demo.utils.ToastUtil;
 
 import java.util.List;

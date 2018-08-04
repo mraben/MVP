@@ -2,8 +2,8 @@ package com.example.www.mvp_demo.model;
 
 import com.example.www.mvp_demo.base.RxSchedelers;
 import com.example.www.mvp_demo.bean.HomeBean;
-import com.example.www.mvp_demo.contract.HomeModel;
-import com.example.www.mvp_demo.contract.IViewListener;
+import com.example.www.mvp_demo.iview.HomeModel;
+import com.example.www.mvp_demo.iview.IViewListener;
 
 import okhttp3.ResponseBody;
 

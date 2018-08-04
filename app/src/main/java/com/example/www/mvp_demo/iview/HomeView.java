@@ -1,4 +1,4 @@
-package com.example.www.mvp_demo.ui.views;
+package com.example.www.mvp_demo.iview;
 
 import java.util.List;
 

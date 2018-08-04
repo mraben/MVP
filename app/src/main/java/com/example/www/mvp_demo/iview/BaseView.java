@@ -1,4 +1,4 @@
-package com.example.www.mvp_demo.ui.views;
+package com.example.www.mvp_demo.iview;
 
 /**
  * Created by PrettyBoy on 2016/5/3.

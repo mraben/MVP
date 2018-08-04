@@ -1,4 +1,4 @@
-package com.example.www.mvp_demo.contract;
+package com.example.www.mvp_demo.iview;
 
 /**
  * Description:
